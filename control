@@ -1,0 +1,9 @@
+Package: us.sunflsks.messagerename
+Name: MessageRename
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: sunchipnacho
+Author: sunchipnacho
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
